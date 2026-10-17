@@ -8,7 +8,7 @@ Lowex 生成的配置里，每个服务组（Bunq、Maya、WhatsApp…）可以�
 
 ![contact sheet](contact-sheet.png)
 
-品牌类（bunq、SumUp、WhatsApp、HSBC、Battle.net、X、Meta）以 [Simple Icons](https://simpleicons.org)（CC0）的矢量标志为底重绘成圆角方块；Maya、Kraken、Bybit、MEXC、Bitget、Blackcat 为按品牌配色与字标手绘的简化版（非官方原图）；其余是分类通用图标。生成脚本见 `tools/make_icons.py`（需要 cairosvg）。
+品牌类（bunq、SumUp、WhatsApp、HSBC、Battle.net、X、Meta）以 [Simple Icons](https://simpleicons.org)（CC0）的矢量标志为底重绘成圆角方块；Maya、Kraken、Bybit、MEXC、Bitget、Blackcat 为按品牌配色与字标手绘的简化版（非官方原图）；其余是分类通用图标。生成脚本见 `tools/make.py、make2.py、make3.py（依次运行）`（需要 cairosvg）。
 
 ## 命名与规格
 

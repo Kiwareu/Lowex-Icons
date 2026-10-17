@@ -5,529 +5,684 @@
  "naming": "<group-id>.png，1:1 PNG，256 或 512 像素，透明背景",
  "groups": [
   {
-   "id": "ai",
-   "name": "AI 服务",
-   "status": "ok",
-   "want": "",
-   "file": "icons/ai.png"
-  },
-  {
-   "id": "youtube",
-   "name": "YouTube",
-   "status": "ok",
-   "want": "",
-   "file": "icons/youtube.png"
-  },
-  {
-   "id": "netflix",
-   "name": "Netflix",
-   "status": "ok",
-   "want": "",
-   "file": "icons/netflix.png"
-  },
-  {
-   "id": "disney",
-   "name": "Disney+",
-   "status": "ok",
-   "want": "",
-   "file": "icons/disney.png"
-  },
-  {
-   "id": "primevideo",
-   "name": "Prime Video",
-   "status": "ok",
-   "want": "",
-   "file": "icons/primevideo.png"
-  },
-  {
-   "id": "spotify",
-   "name": "Spotify",
-   "status": "ok",
-   "want": "",
-   "file": "icons/spotify.png"
-  },
-  {
-   "id": "twitch",
-   "name": "Twitch",
-   "status": "ok",
-   "want": "",
-   "file": "icons/twitch.png"
-  },
-  {
-   "id": "bilibili",
-   "name": "哔哩哔哩",
-   "status": "ok",
-   "want": "",
-   "file": "icons/bilibili.png"
-  },
-  {
-   "id": "tiktok",
-   "name": "TikTok",
-   "status": "ok",
-   "want": "",
-   "file": "icons/tiktok.png"
-  },
-  {
-   "id": "twitter",
-   "name": "Twitter / X",
-   "status": "done",
-   "want": "X 标志（可选更新）",
-   "file": "icons/twitter.png"
-  },
-  {
-   "id": "telegram",
-   "name": "Telegram",
-   "status": "ok",
-   "want": "",
-   "file": "icons/telegram.png"
-  },
-  {
-   "id": "meta",
-   "name": "Meta（Facebook/Instagram/WhatsApp/Threads）",
-   "status": "done",
-   "want": "Meta 无限符号标志（可选更新）",
-   "file": "icons/meta.png"
-  },
-  {
-   "id": "discord",
-   "name": "Discord",
-   "status": "ok",
-   "want": "",
-   "file": "icons/discord.png"
-  },
-  {
-   "id": "reddit",
-   "name": "Reddit",
-   "status": "ok",
-   "want": "",
-   "file": "icons/reddit.png"
-  },
-  {
-   "id": "linkedin",
-   "name": "LinkedIn",
-   "status": "ok",
-   "want": "",
-   "file": "icons/linkedin.png"
-  },
-  {
-   "id": "signal",
-   "name": "Signal",
-   "status": "ok",
-   "want": "",
-   "file": "icons/signal.png"
-  },
-  {
-   "id": "steam",
-   "name": "Steam",
-   "status": "ok",
-   "want": "",
-   "file": "icons/steam.png"
-  },
-  {
-   "id": "epic",
-   "name": "Epic Games",
-   "status": "ok",
-   "want": "",
-   "file": "icons/epic.png"
-  },
-  {
-   "id": "blizzard",
-   "name": "暴雪战网",
-   "status": "done",
-   "want": "暴雪战网 Battle.net 标志",
-   "file": "icons/blizzard.png"
-  },
-  {
-   "id": "nintendo",
-   "name": "任天堂",
-   "status": "ok",
-   "want": "",
-   "file": "icons/nintendo.png"
-  },
-  {
-   "id": "playstation",
-   "name": "PlayStation",
-   "status": "ok",
-   "want": "",
-   "file": "icons/playstation.png"
-  },
-  {
-   "id": "xbox",
-   "name": "Xbox",
-   "status": "ok",
-   "want": "",
-   "file": "icons/xbox.png"
-  },
-  {
-   "id": "games-cn",
-   "name": "国服游戏（直连）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/games-cn.png"
-  },
-  {
-   "id": "github",
-   "name": "GitHub",
-   "status": "ok",
-   "want": "",
-   "file": "icons/github.png"
-  },
-  {
-   "id": "gitlab",
-   "name": "GitLab",
-   "status": "ok",
-   "want": "GitLab 高清标志（可选更新）",
-   "file": "icons/gitlab.png"
-  },
-  {
-   "id": "docker",
-   "name": "Docker / 容器镜像",
-   "status": "ok",
-   "want": "",
-   "file": "icons/docker.png"
-  },
-  {
-   "id": "npm",
-   "name": "npm / JS 生态",
-   "status": "ok",
-   "want": "npm 高清标志（可选更新）",
-   "file": "icons/npm.png"
-  },
-  {
-   "id": "cloudflare",
-   "name": "Cloudflare",
-   "status": "ok",
-   "want": "",
-   "file": "icons/cloudflare.png"
-  },
-  {
-   "id": "google",
-   "name": "Google",
-   "status": "ok",
-   "want": "",
-   "file": "icons/google.png"
-  },
-  {
-   "id": "microsoft",
-   "name": "Microsoft",
-   "status": "ok",
-   "want": "",
-   "file": "icons/microsoft.png"
-  },
-  {
-   "id": "onedrive",
-   "name": "OneDrive",
-   "status": "ok",
-   "want": "",
-   "file": "icons/onedrive.png"
-  },
-  {
-   "id": "apple",
-   "name": "Apple",
-   "status": "ok",
-   "want": "",
-   "file": "icons/apple.png"
-  },
-  {
-   "id": "notion",
-   "name": "Notion",
-   "status": "ok",
-   "want": "",
-   "file": "icons/notion.png"
-  },
-  {
-   "id": "slack",
-   "name": "Slack",
-   "status": "ok",
-   "want": "",
-   "file": "icons/slack.png"
-  },
-  {
-   "id": "zoom",
-   "name": "Zoom",
-   "status": "ok",
-   "want": "",
-   "file": "icons/zoom.png"
-  },
-  {
-   "id": "dropbox",
-   "name": "Dropbox",
-   "status": "ok",
-   "want": "",
-   "file": "icons/dropbox.png"
-  },
-  {
-   "id": "amazon",
-   "name": "Amazon 购物",
-   "status": "ok",
-   "want": "",
-   "file": "icons/amazon.png"
-  },
-  {
-   "id": "ebay",
-   "name": "eBay",
-   "status": "ok",
-   "want": "",
-   "file": "icons/ebay.png"
-  },
-  {
-   "id": "paypal",
-   "name": "PayPal",
-   "status": "ok",
-   "want": "",
-   "file": "icons/paypal.png"
-  },
-  {
-   "id": "crypto",
-   "name": "加密货币平台",
-   "status": "ok",
-   "want": "",
-   "file": "icons/crypto.png"
-  },
-  {
-   "id": "pt",
-   "name": "PT / BT 下载（直连）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/pt.png"
-  },
-  {
-   "id": "wikimedia",
-   "name": "Wikipedia",
-   "status": "ok",
-   "want": "",
-   "file": "icons/wikimedia.png"
-  },
-  {
-   "id": "scholar",
-   "name": "学术（海外）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/scholar.png"
-  },
-  {
-   "id": "bank-overseas",
-   "name": "海外银行 / 券商",
-   "status": "done",
-   "want": "「海外银行 / 券商」组通用银行图标（无货币符号）",
-   "file": "icons/bank-overseas.png"
-  },
-  {
-   "id": "crypto-more",
-   "name": "加密货币（更多交易所 / 钱包）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/crypto-more.png"
-  },
-  {
-   "id": "ai-more",
-   "name": "AI（更多：Claude / Gemini / Grok 等）",
-   "status": "done",
-   "want": "「AI（更多）」组图标",
-   "file": "icons/ai-more.png"
-  },
-  {
-   "id": "fintech",
-   "name": "金融科技 / 新银行",
-   "status": "done",
-   "want": "「金融科技 / 新银行」组通用图标（如 Wise / Revolut / N26 的拼合或中性图标）",
-   "file": "icons/fintech.png"
-  },
-  {
-   "id": "bank-eu",
-   "name": "欧洲 / 国际银行与券商",
-   "status": "done",
-   "want": "「欧洲 / 国际银行与券商」组图标",
-   "file": "icons/bank-eu.png"
-  },
-  {
-   "id": "cn-bank-direct",
-   "name": "国内银行 / 支付 / 政务（直连）",
-   "status": "done",
-   "want": "「国内银行 / 支付 / 政务」组图标",
-   "file": "icons/cn-bank-direct.png"
-  },
-  {
-   "id": "social-more",
-   "name": "社交 / 去中心化（更多）",
-   "status": "done",
-   "want": "「社交 / 去中心化」组图标",
-   "file": "icons/social-more.png"
-  },
-  {
-   "id": "media-more",
-   "name": "影音 / 阅读（更多）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/media-more.png"
-  },
-  {
-   "id": "travel",
-   "name": "出行 / 旅行 / 外卖",
-   "status": "ok",
-   "want": "",
-   "file": "icons/travel.png"
-  },
-  {
-   "id": "privacy",
-   "name": "隐私 / 密码 / 邮箱工具",
-   "status": "done",
-   "want": "「隐私 / 密码 / 邮箱工具」组图标",
-   "file": "icons/privacy.png"
-  },
-  {
-   "id": "cloud-dev",
-   "name": "云平台 / 开发者（更多）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/cloud-dev.png"
-  },
-  {
-   "id": "games-more",
-   "name": "游戏平台（更多）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/games-more.png"
-  },
-  {
-   "id": "shop-more",
-   "name": "购物（更多海外）",
-   "status": "done",
-   "want": "「购物（更多海外）」组图标",
-   "file": "icons/shop-more.png"
-  },
-  {
-   "id": "hsbc",
-   "name": "汇丰 HSBC（全球 / 香港 / 英国）",
-   "status": "done",
-   "want": "汇丰 HSBC 六边形标志",
-   "file": "icons/hsbc.png"
-  },
-  {
-   "id": "bank-hk",
-   "name": "香港银行 / 虚拟银行",
-   "status": "done",
-   "want": "「香港银行 / 虚拟银行」组图标",
-   "file": "icons/bank-hk.png"
-  },
-  {
-   "id": "bank-sg",
-   "name": "新加坡银行（DBS / OCBC / UOB / SC）",
-   "status": "done",
-   "want": "「新加坡银行」组图标",
-   "file": "icons/bank-sg.png"
-  },
-  {
-   "id": "biz-banking",
-   "name": "跨境商业账户（Airwallex / Statrys / Payoneer / Mercury / Relay）",
-   "status": "done",
-   "want": "「跨境商业账户」组图标",
-   "file": "icons/biz-banking.png"
-  },
-  {
-   "id": "nomad-work",
-   "name": "远程工作 / 外包平台",
-   "status": "done",
-   "want": "「远程工作 / 外包平台」组图标",
-   "file": "icons/nomad-work.png"
-  },
-  {
-   "id": "brokers",
-   "name": "券商（IBKR / 富途 / 老虎 / Schwab 等）",
-   "status": "done",
-   "want": "「券商」组图标",
-   "file": "icons/brokers.png"
-  },
-  {
-   "id": "nomad-tools",
-   "name": "数字游民工具（Nomads / Airalo / SafetyWing…）",
-   "status": "done",
-   "want": "「数字游民工具」组图标",
-   "file": "icons/nomad-tools.png"
-  },
-  {
-   "id": "bunq",
-   "name": "Bunq",
-   "status": "done",
-   "want": "bunq（荷兰银行）彩虹 b 标志",
-   "file": "icons/bunq.png"
-  },
-  {
-   "id": "sumup",
-   "name": "SumUp",
-   "status": "done",
-   "want": "SumUp（英国支付）标志",
-   "file": "icons/sumup.png"
-  },
-  {
-   "id": "maya",
-   "name": "Maya",
-   "status": "done",
-   "want": "Maya（菲律宾银行 / 支付）标志",
-   "file": "icons/maya.png"
-  },
-  {
-   "id": "blackcat",
-   "name": "Blackcat Card",
-   "status": "done",
-   "want": "Blackcat Card 标志",
-   "file": "icons/blackcat.png"
-  },
-  {
-   "id": "bybit-eu",
-   "name": "Bybit EU",
-   "status": "done",
-   "want": "Bybit 标志",
-   "file": "icons/bybit-eu.png"
-  },
-  {
-   "id": "mexc",
-   "name": "MEXC",
-   "status": "done",
-   "want": "MEXC 标志",
-   "file": "icons/mexc.png"
-  },
-  {
-   "id": "krak",
-   "name": "Krak",
-   "status": "done",
-   "want": "Kraken 标志",
-   "file": "icons/krak.png"
-  },
-  {
-   "id": "bitget-wallet",
-   "name": "Bitget Wallet",
-   "status": "done",
-   "want": "Bitget Wallet 标志",
-   "file": "icons/bitget-wallet.png"
-  },
-  {
-   "id": "whatsapp",
-   "name": "WhatsApp",
-   "status": "done",
-   "want": "WhatsApp 标志",
-   "file": "icons/whatsapp.png"
-  },
-  {
-   "id": "trackers",
-   "name": "追踪器 / 分析拦截（域名）",
-   "status": "ok",
-   "want": "",
-   "file": "icons/trackers.png"
-  },
-  {
+   "file": "icons/ads.png",
    "id": "ads",
+   "kind": "group",
    "name": "广告拦截",
-   "status": "ok",
-   "want": "",
-   "file": "icons/ads.png"
+   "status": "ok"
   },
   {
+   "file": "icons/ai.png",
+   "id": "ai",
+   "kind": "group",
+   "name": "AI 服务",
+   "status": "ok"
+  },
+  {
+   "file": "icons/ai-more.png",
+   "id": "ai-more",
+   "kind": "group",
+   "name": "AI（更多：Claude / Gemini / Grok 等）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/amazon.png",
+   "id": "amazon",
+   "kind": "group",
+   "name": "Amazon 购物",
+   "status": "ok"
+  },
+  {
+   "file": "icons/apple.png",
+   "id": "apple",
+   "kind": "group",
+   "name": "Apple",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bank-eu.png",
+   "id": "bank-eu",
+   "kind": "group",
+   "name": "欧洲 / 国际银行与券商",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bank-hk.png",
+   "id": "bank-hk",
+   "kind": "group",
+   "name": "香港银行 / 虚拟银行",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bank-overseas.png",
+   "id": "bank-overseas",
+   "kind": "group",
+   "name": "海外银行 / 券商",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bank-sg.png",
+   "id": "bank-sg",
+   "kind": "group",
+   "name": "新加坡银行（DBS / OCBC / UOB / SC）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bilibili.png",
+   "id": "bilibili",
+   "kind": "group",
+   "name": "哔哩哔哩",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bitget-wallet.png",
+   "id": "bitget-wallet",
+   "kind": "group",
+   "name": "Bitget Wallet",
+   "status": "ok"
+  },
+  {
+   "file": "icons/biz-banking.png",
+   "id": "biz-banking",
+   "kind": "group",
+   "name": "跨境商业账户（Airwallex / Statrys / Payoneer / Mercury / Relay）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/blackcat.png",
+   "id": "blackcat",
+   "kind": "group",
+   "name": "Blackcat Card",
+   "status": "ok"
+  },
+  {
+   "file": "icons/blizzard.png",
+   "id": "blizzard",
+   "kind": "group",
+   "name": "暴雪战网",
+   "status": "ok"
+  },
+  {
+   "file": "icons/brokers.png",
+   "id": "brokers",
+   "kind": "group",
+   "name": "券商（IBKR / 富途 / 老虎 / Schwab 等）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bunq.png",
+   "id": "bunq",
+   "kind": "group",
+   "name": "Bunq",
+   "status": "ok"
+  },
+  {
+   "file": "icons/bybit-eu.png",
+   "id": "bybit-eu",
+   "kind": "group",
+   "name": "Bybit EU",
+   "status": "ok"
+  },
+  {
+   "file": "icons/cloud-dev.png",
+   "id": "cloud-dev",
+   "kind": "group",
+   "name": "云平台 / 开发者（更多）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/cloudflare.png",
+   "id": "cloudflare",
+   "kind": "group",
+   "name": "Cloudflare",
+   "status": "ok"
+  },
+  {
+   "file": "icons/cn.png",
+   "id": "cn",
+   "kind": "group",
+   "name": "cn",
+   "status": "ok"
+  },
+  {
+   "file": "icons/cn-bank-direct.png",
+   "id": "cn-bank-direct",
+   "kind": "group",
+   "name": "国内银行 / 支付 / 政务（直连）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/crypto.png",
+   "id": "crypto",
+   "kind": "group",
+   "name": "加密货币平台",
+   "status": "ok"
+  },
+  {
+   "file": "icons/crypto-more.png",
+   "id": "crypto-more",
+   "kind": "group",
+   "name": "加密货币（更多交易所 / 钱包）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/discord.png",
+   "id": "discord",
+   "kind": "group",
+   "name": "Discord",
+   "status": "ok"
+  },
+  {
+   "file": "icons/disney.png",
+   "id": "disney",
+   "kind": "group",
+   "name": "Disney+",
+   "status": "ok"
+  },
+  {
+   "file": "icons/docker.png",
+   "id": "docker",
+   "kind": "group",
+   "name": "Docker / 容器镜像",
+   "status": "ok"
+  },
+  {
+   "file": "icons/dropbox.png",
+   "id": "dropbox",
+   "kind": "group",
+   "name": "Dropbox",
+   "status": "ok"
+  },
+  {
+   "file": "icons/ebay.png",
+   "id": "ebay",
+   "kind": "group",
+   "name": "eBay",
+   "status": "ok"
+  },
+  {
+   "file": "icons/epic.png",
+   "id": "epic",
+   "kind": "group",
+   "name": "Epic Games",
+   "status": "ok"
+  },
+  {
+   "file": "icons/fintech.png",
+   "id": "fintech",
+   "kind": "group",
+   "name": "金融科技 / 新银行",
+   "status": "ok"
+  },
+  {
+   "file": "icons/games-cn.png",
+   "id": "games-cn",
+   "kind": "group",
+   "name": "国服游戏（直连）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/games-more.png",
+   "id": "games-more",
+   "kind": "group",
+   "name": "游戏平台（更多）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/github.png",
+   "id": "github",
+   "kind": "group",
+   "name": "GitHub",
+   "status": "ok"
+  },
+  {
+   "file": "icons/gitlab.png",
+   "id": "gitlab",
+   "kind": "group",
+   "name": "GitLab",
+   "status": "ok"
+  },
+  {
+   "file": "icons/google.png",
+   "id": "google",
+   "kind": "group",
+   "name": "Google",
+   "status": "ok"
+  },
+  {
+   "file": "icons/hsbc.png",
+   "id": "hsbc",
+   "kind": "group",
+   "name": "汇丰 HSBC（全球 / 香港 / 英国）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/krak.png",
+   "id": "krak",
+   "kind": "group",
+   "name": "Krak",
+   "status": "ok"
+  },
+  {
+   "file": "icons/linkedin.png",
+   "id": "linkedin",
+   "kind": "group",
+   "name": "LinkedIn",
+   "status": "ok"
+  },
+  {
+   "file": "icons/maya.png",
+   "id": "maya",
+   "kind": "group",
+   "name": "Maya",
+   "status": "ok"
+  },
+  {
+   "file": "icons/media-more.png",
+   "id": "media-more",
+   "kind": "group",
+   "name": "影音 / 阅读（更多）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/meta.png",
+   "id": "meta",
+   "kind": "group",
+   "name": "Meta（Facebook/Instagram/WhatsApp/Threads）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/mexc.png",
+   "id": "mexc",
+   "kind": "group",
+   "name": "MEXC",
+   "status": "ok"
+  },
+  {
+   "file": "icons/microsoft.png",
+   "id": "microsoft",
+   "kind": "group",
+   "name": "Microsoft",
+   "status": "ok"
+  },
+  {
+   "file": "icons/netflix.png",
+   "id": "netflix",
+   "kind": "group",
+   "name": "Netflix",
+   "status": "ok"
+  },
+  {
+   "file": "icons/nintendo.png",
+   "id": "nintendo",
+   "kind": "group",
+   "name": "任天堂",
+   "status": "ok"
+  },
+  {
+   "file": "icons/nomad-tools.png",
+   "id": "nomad-tools",
+   "kind": "group",
+   "name": "数字游民工具（Nomads / Airalo / SafetyWing…）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/nomad-work.png",
+   "id": "nomad-work",
+   "kind": "group",
+   "name": "远程工作 / 外包平台",
+   "status": "ok"
+  },
+  {
+   "file": "icons/notion.png",
+   "id": "notion",
+   "kind": "group",
+   "name": "Notion",
+   "status": "ok"
+  },
+  {
+   "file": "icons/npm.png",
+   "id": "npm",
+   "kind": "group",
+   "name": "npm / JS 生态",
+   "status": "ok"
+  },
+  {
+   "file": "icons/onedrive.png",
+   "id": "onedrive",
+   "kind": "group",
+   "name": "OneDrive",
+   "status": "ok"
+  },
+  {
+   "file": "icons/paypal.png",
+   "id": "paypal",
+   "kind": "group",
+   "name": "PayPal",
+   "status": "ok"
+  },
+  {
+   "file": "icons/playstation.png",
+   "id": "playstation",
+   "kind": "group",
+   "name": "PlayStation",
+   "status": "ok"
+  },
+  {
+   "file": "icons/primevideo.png",
+   "id": "primevideo",
+   "kind": "group",
+   "name": "Prime Video",
+   "status": "ok"
+  },
+  {
+   "file": "icons/privacy.png",
+   "id": "privacy",
+   "kind": "group",
+   "name": "隐私 / 密码 / 邮箱工具",
+   "status": "ok"
+  },
+  {
+   "file": "icons/private.png",
+   "id": "private",
+   "kind": "group",
+   "name": "private",
+   "status": "ok"
+  },
+  {
+   "file": "icons/proxy-fallback.png",
+   "id": "proxy-fallback",
+   "kind": "group",
+   "name": "proxy-fallback",
+   "status": "ok"
+  },
+  {
+   "file": "icons/pt.png",
+   "id": "pt",
+   "kind": "group",
+   "name": "PT / BT 下载（直连）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/reddit.png",
+   "id": "reddit",
+   "kind": "group",
+   "name": "Reddit",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-DE.png",
+   "id": "region-DE",
+   "kind": "region",
+   "name": "region-DE",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-EU.png",
+   "id": "region-EU",
+   "kind": "region",
+   "name": "region-EU",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-FR.png",
+   "id": "region-FR",
+   "kind": "region",
+   "name": "region-FR",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-HK.png",
+   "id": "region-HK",
+   "kind": "region",
+   "name": "region-HK",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-JP.png",
+   "id": "region-JP",
+   "kind": "region",
+   "name": "region-JP",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-KR.png",
+   "id": "region-KR",
+   "kind": "region",
+   "name": "region-KR",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-OT.png",
+   "id": "region-OT",
+   "kind": "region",
+   "name": "region-OT",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-SG.png",
+   "id": "region-SG",
+   "kind": "region",
+   "name": "region-SG",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-TW.png",
+   "id": "region-TW",
+   "kind": "region",
+   "name": "region-TW",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-UK.png",
+   "id": "region-UK",
+   "kind": "region",
+   "name": "region-UK",
+   "status": "ok"
+  },
+  {
+   "file": "icons/region-US.png",
+   "id": "region-US",
+   "kind": "region",
+   "name": "region-US",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-autoAll.png",
+   "id": "s-autoAll",
+   "kind": "special",
+   "name": "s-autoAll",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-direct.png",
+   "id": "s-direct",
+   "kind": "special",
+   "name": "s-direct",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-final.png",
+   "id": "s-final",
+   "kind": "special",
+   "name": "s-final",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-home.png",
+   "id": "s-home",
+   "kind": "special",
+   "name": "s-home",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-lb.png",
+   "id": "s-lb",
+   "kind": "special",
+   "name": "s-lb",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-manAll.png",
+   "id": "s-manAll",
+   "kind": "special",
+   "name": "s-manAll",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-proxy.png",
+   "id": "s-proxy",
+   "kind": "special",
+   "name": "s-proxy",
+   "status": "ok"
+  },
+  {
+   "file": "icons/s-update.png",
+   "id": "s-update",
+   "kind": "special",
+   "name": "s-update",
+   "status": "ok"
+  },
+  {
+   "file": "icons/scholar.png",
+   "id": "scholar",
+   "kind": "group",
+   "name": "学术（海外）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/shop-more.png",
+   "id": "shop-more",
+   "kind": "group",
+   "name": "购物（更多海外）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/signal.png",
+   "id": "signal",
+   "kind": "group",
+   "name": "Signal",
+   "status": "ok"
+  },
+  {
+   "file": "icons/slack.png",
+   "id": "slack",
+   "kind": "group",
+   "name": "Slack",
+   "status": "ok"
+  },
+  {
+   "file": "icons/social-more.png",
+   "id": "social-more",
+   "kind": "group",
+   "name": "社交 / 去中心化（更多）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/spotify.png",
+   "id": "spotify",
+   "kind": "group",
+   "name": "Spotify",
+   "status": "ok"
+  },
+  {
+   "file": "icons/steam.png",
+   "id": "steam",
+   "kind": "group",
+   "name": "Steam",
+   "status": "ok"
+  },
+  {
+   "file": "icons/sumup.png",
+   "id": "sumup",
+   "kind": "group",
+   "name": "SumUp",
+   "status": "ok"
+  },
+  {
+   "file": "icons/telegram.png",
+   "id": "telegram",
+   "kind": "group",
+   "name": "Telegram",
+   "status": "ok"
+  },
+  {
+   "file": "icons/telemetry.png",
    "id": "telemetry",
+   "kind": "group",
    "name": "隐私遥测",
-   "status": "ok",
-   "want": "",
-   "file": "icons/telemetry.png"
+   "status": "ok"
+  },
+  {
+   "file": "icons/tiktok.png",
+   "id": "tiktok",
+   "kind": "group",
+   "name": "TikTok",
+   "status": "ok"
+  },
+  {
+   "file": "icons/trackers.png",
+   "id": "trackers",
+   "kind": "group",
+   "name": "追踪器 / 分析拦截（域名）",
+   "status": "ok"
+  },
+  {
+   "file": "icons/travel.png",
+   "id": "travel",
+   "kind": "group",
+   "name": "出行 / 旅行 / 外卖",
+   "status": "ok"
+  },
+  {
+   "file": "icons/twitch.png",
+   "id": "twitch",
+   "kind": "group",
+   "name": "Twitch",
+   "status": "ok"
+  },
+  {
+   "file": "icons/twitter.png",
+   "id": "twitter",
+   "kind": "group",
+   "name": "Twitter / X",
+   "status": "ok"
+  },
+  {
+   "file": "icons/whatsapp.png",
+   "id": "whatsapp",
+   "kind": "group",
+   "name": "WhatsApp",
+   "status": "ok"
+  },
+  {
+   "file": "icons/wikimedia.png",
+   "id": "wikimedia",
+   "kind": "group",
+   "name": "Wikipedia",
+   "status": "ok"
+  },
+  {
+   "file": "icons/xbox.png",
+   "id": "xbox",
+   "kind": "group",
+   "name": "Xbox",
+   "status": "ok"
+  },
+  {
+   "file": "icons/youtube.png",
+   "id": "youtube",
+   "kind": "group",
+   "name": "YouTube",
+   "status": "ok"
+  },
+  {
+   "file": "icons/zoom.png",
+   "id": "zoom",
+   "kind": "group",
+   "name": "Zoom",
+   "status": "ok"
   }
- ]
+ ],
+ "note": "v1.5.1: 全部 97 张已绘制，status 均为 ok。kind: group 服务组/核心组，special 特殊组，region 地区旗帜。"
 }
