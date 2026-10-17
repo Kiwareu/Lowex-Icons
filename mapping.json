@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "base": "https://raw.githubusercontent.com/wenxu184/Lowex-Icons/main/icons",
+ "base": "https://raw.githubusercontent.com/Kiwareu/Lowex-Icons/main/icons",
  "placeholder": "_placeholder.png",
  "naming": "<group-id>.png，1:1 PNG，256 或 512 像素，透明背景",
  "groups": [

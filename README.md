@@ -1,6 +1,8 @@
 # Lowex-Icons
 
-[Lowex](https://github.com/wenxu184/Lowex) 策略组图标库 / Policy-group icon set for Lowex.
+> 账号改名：`wenxu184` → **Kiwareu**。本仓库现位于 https://github.com/Kiwareu/Lowex-Icons ，图标地址为 `https://raw.githubusercontent.com/Kiwareu/Lowex-Icons/main/icons/<文件名>.png`。
+
+[Lowex](https://github.com/Kiwareu/Lowex) 策略组图标库 / Policy-group icon set for Lowex.
 
 Lowex 生成的配置里，每个服务组（Bunq、Maya、WhatsApp…）可以带一个图标 URL。这个仓库放**经过人工核对**的图标；还没上传的组，Lowex 会用中性占位图 `icons/_placeholder.png`，不会再显示错误品牌的图标。
 
@@ -21,8 +23,8 @@ Lowex 生成的配置里，每个服务组（Bunq、Maya、WhatsApp…）可以�
 
 1. 把 PNG 放进 `icons/` 并推送到 `main`。
 2. Lowex App 启动时通过 GitHub API 列出本仓库 `icons/` 里的文件，凡是存在 `<组 id>.png` 的组，生成配置时自动改用
-   `https://raw.githubusercontent.com/wenxu184/Lowex-Icons/main/icons/<组 id>.png`；没有的组沿用已核对的旧图或占位图。无需重新发版。
-3. [`mapping.json`](mapping.json) 记录每个组当前的核对状态（`ok` / `generic` / `wrong` / `single` / `broken`）和需要什么图标；完整待办见 Lowex 仓库的 [docs/ICONS-TODO.md](https://github.com/wenxu184/Lowex/blob/main/docs/ICONS-TODO.md)。
+   `https://raw.githubusercontent.com/Kiwareu/Lowex-Icons/main/icons/<组 id>.png`；没有的组沿用已核对的旧图或占位图。无需重新发版。
+3. [`mapping.json`](mapping.json) 记录每个组当前的核对状态（`ok` / `generic` / `wrong` / `single` / `broken`）和需要什么图标；完整待办见 Lowex 仓库的 [docs/ICONS-TODO.md](https://github.com/Kiwareu/Lowex/blob/main/docs/ICONS-TODO.md)。
 
 ## 许可与商标 / License & trademarks
 
