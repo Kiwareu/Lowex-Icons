@@ -1,5 +1,5 @@
 import re,cairosvg,os
-OUT='/workspace/icons-new'
+OUT='./icons-out'
 def path(f):return re.search(r' d="([^"]+)"',open(f).read()).group(1)
 def tile(bg,inner,bg2=None,defs=''):
     bg2=bg2 or bg

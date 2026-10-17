@@ -1,12 +1,10 @@
 # Lowex-Icons
 
-> 账号改名：`wenxu184` → **Kiwareu**。本仓库现位于 https://github.com/Kiwareu/Lowex-Icons ，图标地址为 `https://raw.githubusercontent.com/Kiwareu/Lowex-Icons/main/icons/<文件名>.png`。
-
 [Lowex](https://github.com/Kiwareu/Lowex) 策略组图标库 / Policy-group icon set for Lowex.
 
 Lowex 生成的配置里，每个服务组（Bunq、Maya、WhatsApp…）可以带一个图标 URL。这个仓库放**经过人工核对**的图标；还没上传的组，Lowex 会用中性占位图 `icons/_placeholder.png`，不会再显示错误品牌的图标。
 
-## 已收录（v1.5，27 个）
+## 已收录（27 个）
 
 ![contact sheet](contact-sheet.png)
 
