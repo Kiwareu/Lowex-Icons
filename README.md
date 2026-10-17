@@ -4,6 +4,12 @@
 
 Lowex 生成的配置里，每个服务组（Bunq、Maya、WhatsApp…）可以带一个图标 URL。这个仓库放**经过人工核对**的图标；还没上传的组，Lowex 会用中性占位图 `icons/_placeholder.png`，不会再显示错误品牌的图标。
 
+## 已收录（v1.5，27 个）
+
+![contact sheet](contact-sheet.png)
+
+品牌类（bunq、SumUp、WhatsApp、HSBC、Battle.net、X、Meta）以 [Simple Icons](https://simpleicons.org)（CC0）的矢量标志为底重绘成圆角方块；Maya、Kraken、Bybit、MEXC、Bitget、Blackcat 为按品牌配色与字标手绘的简化版（非官方原图）；其余是分类通用图标。生成脚本见 `tools/make_icons.py`（需要 cairosvg）。
+
 ## 命名与规格
 
 - 路径：`icons/<组 id>.png`（组 id 见 [`mapping.json`](mapping.json)，例如 `icons/bunq.png`）
